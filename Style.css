@@ -1,0 +1,30 @@
+ul.one {
+  list-style: circle;
+}
+ul.two {
+  list-style: decimal;
+}
+ul.three {
+  list-style: decimal-leading-zero;
+}
+ul.four {
+  list-style: disc;
+}
+ul.five {
+  list-style: lower-alpha;
+}
+ul.six {
+  list-style: lower-greek;
+}
+ul.seven {
+  list-style: lower-greek;
+}
+ul.eight {
+  list-style: lower-greek;
+}
+ul.nine {
+  list-style: lower-greek;
+}
+ul.ten {
+  list-style: lower-greek;
+}
